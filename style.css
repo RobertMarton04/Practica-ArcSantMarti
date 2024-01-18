@@ -1,0 +1,28 @@
+header{
+    color: black;
+    background-color: blueviolet;
+
+}
+
+.borde{
+    -webkit-text-fill-color: blueviolet;
+    background-color: rgb(145, 145, 145);
+}
+.bordea{
+    color: black;
+    background-color: rgb(251, 123, 255);
+}
+
+.blo{
+    width: 49%;
+   
+}
+.linea{
+    display: inline;
+}
+.ultimo{
+    color: black;
+    background-color: rgb(252, 0, 0);
+    width:200px;
+    margin: auto;
+}
