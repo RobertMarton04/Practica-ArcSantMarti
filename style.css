@@ -1,28 +1,26 @@
-header{
-    color: black;
-    background-color: blueviolet;
-
+#roig:hover {
+    color: red;
 }
 
-.borde{
-    -webkit-text-fill-color: blueviolet;
-    background-color: rgb(145, 145, 145);
-}
-.bordea{
-    color: black;
-    background-color: rgb(251, 123, 255);
+#taronja:hover{
+    color: orange
 }
 
-.blo{
-    width: 49%;
-   
+#groc:hover{
+    color: yellow;
 }
-.linea{
-    display: inline;
+
+#verd:hover{
+    color: green;
 }
-.ultimo{
-    color: black;
-    background-color: rgb(252, 0, 0);
-    width:200px;
-    margin: auto;
+
+#blauc:hover{
+    color: lightblue;
+}
+
+#blau:hover{
+    color: blue;
+}
+#morat:hover{
+    color: purple;
 }
